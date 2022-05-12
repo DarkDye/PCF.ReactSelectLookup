@@ -1,5 +1,3 @@
-# PCF.ReactSelectLookup
-
 # React-Select Lookup PCF Component
 
 The objective of the PCF is to filter by a specific field and with the contains condition without the need to use an asterisk (*)
