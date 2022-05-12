@@ -22,5 +22,7 @@ To use the component follow these steps:
    4. Id Value attribute: Key schema name
    5. Text Value Attribute: Text to display on react-select control
 4. Enjoy!
+
+
 ![PCF ReactSelectLookup Example](https://user-images.githubusercontent.com/18213577/168109408-3ab25cd8-2899-4a0e-8d66-fa8935e05c8b.gif)
 
