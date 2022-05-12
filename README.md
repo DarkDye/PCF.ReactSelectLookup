@@ -3,7 +3,7 @@
 The objective of the PCF is to filter by a specific field and with the contains condition without the need to use an asterisk (*)
 
 To use the component follow these steps:
-1. Import the managed solution into your environment
+1. Import the managed solution into your environment ([SolReactSelectLookup.zip](https://github.com/DarkDye/PCF.ReactSelectLookup/files/8680478/SolReactSelectLookup.zip))
 2. Configure the component for your lookup form control
    1. Set props
       1. Fetch XML filter lookup: Set the FetchXML with the word "(filter)" to replace the filter
